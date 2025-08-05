@@ -22,7 +22,11 @@ const BrandPartners = () => {
       description: "Darshan Valji supplier in Erode",
       image: "../../public/images/DarshanValji.png",
     },
-    { name: "Subhtex", description: "Subhtex supplier in Erode" },
+    {
+      name: "Subhtex",
+      description: "Subhtex supplier in Erode",
+      image: "../../public/images/Subhtex.jpg",
+    },
     {
       name: "Swaraj",
       description: "Swaraj supplier in Erode",
